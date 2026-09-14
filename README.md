@@ -1,4 +1,4 @@
-# Davi Gomes
+# Davi Coelho
 
 Desenvolvedor de Software | Engenharia de Sistemas & Microsserviços
 
@@ -20,14 +20,8 @@ Desenvolvedor de Software | Engenharia de Sistemas & Microsserviços
 
 ---
 
-### Projetos Principais
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **Nome do Projeto** | Descrição sucinta da arquitetura e impacto. | Node.js, Docker, GCP |
-
----
-
 ### Contato
 
-- **LinkedIn:** linkedin.com/in/seu-perfil
+- **LinkedIn:** linkedin.com/in/davi-gomes-coelho
+
+
