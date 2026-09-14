@@ -1,16 +1,33 @@
-## Hi there 👋
+# Davi Gomes
 
-<!--
-**davigpc/davigpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de Software | Engenharia de Sistemas & Microsserviços
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Visão Geral de Métricas
+
+<p align="center">
+  <img src="./metrics.classic.svg" alt="Métricas do GitHub" width="100%" />
+</p>
+
+---
+
+### Linguagens e Atividade
+
+<p align="center">
+  <img src="./metrics.languages.svg" alt="Linguagens Utilizadas" width="100%" />
+</p>
+
+---
+
+### Projetos Principais
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **Nome do Projeto** | Descrição sucinta da arquitetura e impacto. | Node.js, Docker, GCP |
+
+---
+
+### Contato
+
+- **LinkedIn:** linkedin.com/in/seu-perfil
